@@ -1,94 +1,89 @@
-# JournalWatch – AI- & Computing-Report 2026-11-02
+# JournalWatch – AI- & Computing-Report 2026-11-03
 
-Neue AI-/Computing-Publikationen seit 2026-10-31: **26**
+Neue AI-/Computing-Publikationen seit 2026-11-01: **24**
 
 ## Nature Portfolio (nature.com)
 
-### Nature Machine Intelligence (1)
+### Nature Communications (4)
 
-- **[AI needs meaningful versioning](https://doi.org/10.1038/s42256-026-01323-8)**
-  Vasilios Mavroudis, Dan Ristea, Lauritz Morlock, et al. · 2026-11-02
+- **[GATA transcription factors coordinate developmental progression in the arabidopsis root](https://doi.org/10.1038/s41467-026-78787-0)**
+  Tom Denyer, Pavel Solansky, Arvid Herrmann, et al. · 2026-11-03
+  > Abstract Proper organ development requires the coordination of cell type-specific differentiation programs with general maturation processes through precise spatiotemporal gene regulation. In plants, where RNA polymerase pausing is not well established, alternative mechanisms must ensure this coordination. Here, using single-cell resolution transcriptomic and chromatin accessibility data, we …
+- **[High-performance annealing-free wurtzite ferroelectric field-effect transistors with ultrathin oxide semiconductors for neuromorphic computing](https://doi.org/10.1038/s41467-026-79253-7)**
+  Kai Wang, Tingting Gao, Kaisheng Hu, et al. · 2026-11-03
+- **[Visual LLM-guided consensus spatial domain detection with L-STAR](https://doi.org/10.1038/s41467-026-78923-w)**
+  Changyue Zhao, Zhicheng Ji · 2026-11-03
+  > Abstract Spatial transcriptomics measures gene activity while preserving the locations of cells within tissue. A key analysis step is to divide the tissue into spatial domains, but the performance of computational methods varies considerably across datasets, and no single method consistently performs best. Here we show that a large language model can compare spatial domain maps and identify the …
+- **[Genome-anchored foundation model embeddings improve molecular prediction from histology images](https://doi.org/10.1038/s41467-026-78947-2)**
+  Cheng Jin, Fengtao Zhou, Yunfang Yu, et al. · 2026-11-02
 
-### Nature Communications (2)
+### Scientific Reports (8)
 
-- **[Reconstructing the single-cell spatiotemporal dynamics of glioblastoma invasion](https://doi.org/10.1038/s41467-026-78908-9)**
-  Hitesh Bhagavanbhai Mangukiya, Madeleine Skeppås, André Lasses Armatowski, et al. · 2026-11-02
-  > Abstract Glioblastoma invasion into healthy brain tissue remains a major barrier to effective treatment, but the dynamic single-cell behaviors underlying this process remain difficult to measure across patient models. Here, we introduce GlioTrace, an ex vivo imaging and computational framework for real-time tracking of glioblastoma invasion in patient-derived xenograft brain slices. Combining …
-- **[Fairness in infectious disease modeling](https://doi.org/10.1038/s41467-026-78981-0)**
-  Yuhan Li, Nicolò Gozzi, Nicola Perra, et al. · 2026-11-02
-  > Abstract The concept of fairness has been extensively examined within the domains of Machine Learning and Artificial Intelligence more broadly. It remains, however, largely underexplored in the field of Computational Epidemiology. Considering the substantial influence that epidemic models exert on public health policy, particularly in the context of outbreak preparedness and response, this …
-
-### Scientific Reports (10)
-
-- **[Research on the application framework of multi-agent technology-driven failure analysis for industrial products](https://doi.org/10.1038/s41598-026-77288-w)**
-  Xin Lu, Zhixiong Gong, Yuyong Zhang · 2026-11-02
-  > Abstract Accurate failure analysis in intelligent supercharging stations is critical for operational safety and efficiency. However, traditional methods suffer from poor cross-condition adaptability, limited few-shot learning capability, and insufficient cross-model generalization. This paper proposes a Multi-Agent Failure Analysis Execution System (FAES), which synergistically integrates a …
-- **[Machine learning classification of prevalent cardiovascular disease in middle-aged and older Chinese adults with circadian syndrome from CHARLS](https://doi.org/10.1038/s41598-026-78223-9)**
-  Lu Wang, Yu-Jun Xiong, Xiang-Da Meng, et al. · 2026-11-02
-- **[Fractional-order chaos–driven multi-stage image encryption scheme with an FPGA realization](https://doi.org/10.1038/s41598-026-72848-6)**
-  Youstina Megalli, Phoebe Edward, Wassim Alexan · 2026-11-02
-  > Abstract The rapid growth of image-centric applications in cloud, IoT/edge, and wireless multimedia systems has intensified the need for encryption schemes that simultaneously deliver strong security and practical real-time implementations. This manuscript proposes a software-hardware co-design of a fractional-order chaos-driven, multiple-layer image encryption pipeline that merges multiple color …
-- **[Improving explainability of attention-based deep learning models for thermal analysis systems](https://doi.org/10.1038/s41598-026-77387-8)**
-  Mohammed Al-Shalabi, Mohammad Shehab, Meshari Alazmi, et al. · 2026-11-02
-- **[QSAR-guided generative framework for the discovery of synthetically viable odorants](https://doi.org/10.1038/s41598-026-76056-0)**
-  Tim C. Pearce, Ahmed Ibrahim · 2026-11-02
-  > Abstract The discovery of novel odorant molecules is key for the fragrance and flavor industries, yet efficiently navigating the vast chemical space to identify structures with desirable olfactory properties remains a significant challenge. Generative artificial intelligence offers a promising approach for de novo molecular design but typically requires large sets of molecules to learn from. To …
-- **[Privacy-preserving deep learning for automated ANB estimation from lateral cephalometric radiographs with an exploratory extension to Cobb angle assessment](https://doi.org/10.1038/s41598-026-78059-3)**
-  Ergin Kalkan, Ibrahim Budak, Recep Taskin · 2026-11-02
-  > Abstract Automated cephalometric analysis requires accurate landmark localization and reliable transformation of radiographic data into clinically interpretable measurements. This study developed and validated a privacy-preserving deep learning pipeline for automated detection of Sella, Nasion, A-point, and B-point landmarks and ANB angle estimation on radiographs. Specifically, lateral …
-- **[Quality-aware cost minimization for multi-tier LLM routing in heterogeneous data centers](https://doi.org/10.1038/s41598-026-76772-7)**
-  Kouider Chadli, Goetz Botterweck, Takfarinas Saber · 2026-11-02
-  > Abstract The rapid expansion of Large Language Model (LLM) inference workloads poses a significant challenge for cloud service providers by increasing operational costs through intensive computational demand. Traditional resource provisioning strategies typically assume homogeneous hardware and static service levels, failing to exploit the economic efficiencies available in heterogeneous data …
-- **[Mechanism-guided generative chemistry yields distinct agonist-like and antagonist-like ligand populations for the serotonin 5-HT2A receptor](https://doi.org/10.1038/s41598-026-78645-5)**
-  Precious A. Akinnusi · 2026-11-02
-  > Abstract Designing serotonin 5-HT2A receptor ligands with a specified functional direction is difficult because binding affinity, assay-derived mechanism labels, molecular properties and receptor conformation are only partially coupled. We developed a mechanism-guided generative chemistry workflow integrating curated ChEMBL data, scaffold-aware supervised learning, a recurrent SMILES prior, …
-- **[Entropy-Guided Adaptive Confidence-Weighted Complementary Deep Ensemble for osteopenia and osteoporosis classification from knee radiographs](https://doi.org/10.1038/s41598-026-73161-y)**
-  Sara Medhat, Wessam S. ElAraby, Mohamed H. Saad, et al. · 2026-11-02
-  > Abstract Automated osteoporosis assessment from knee radiographs remains a challenging computer-aided diagnosis task due to subtle structural differences among normal, osteopenic, and osteoporotic bone patterns, together with the limited availability of transparent and reproducible evaluation frameworks based on publicly accessible datasets. Existing studies predominantly rely on standalone deep …
-- **[Artificial intelligence readiness in healthcare and health professions education in conflict-affected Syria: an online cross-sectional study](https://doi.org/10.1038/s41598-026-77998-1)**
-  May Katrib, Eyad Jamileh, Ibrahim Saleh, et al. · 2026-11-02
-  > Abstract Artificial intelligence (AI) is increasingly relevant to healthcare delivery, clinical training, and health professions education. Evidence from conflict-affected settings remains limited, despite workforce shortages, disrupted training pathways, and constrained digital infrastructure. This study assessed AI knowledge, trust, willingness, and digital capability among Syrian adults and …
+- **[RELAX: Reliability enhancement by limiting adverse eXertions](https://doi.org/10.1038/s41598-026-70532-3)**
+  Rohan Raju Dhanakshirur, Raghunathan Selvam, Rahul Venkataramani, et al. · 2026-11-03
+  > Abstract Accurate and well-calibrated confidence estimates are essential for the safe use of artificial intelligence (AI) in clinical imaging workflows, where overconfident errors can directly affect diagnostic decisions and patient outcomes. Conventional training objectives such as cross-entropy often encourage uniformly high confidence across all samples, leading to substantial miscalibration, …
+- **[Personality expression and perception in large language models and humans](https://doi.org/10.1038/s41598-026-75546-5)**
+  Sophie T. Koerner, Boris Egloff, Sarah Osterholz · 2026-11-03
+  > Abstract Growing numbers of people frequently turn to Large Language Models (LLMs) for concerns from various areas of life. Because its content has become ubiquitous, examining user perceptions of LLM-produced text and its distinguishability from human writing is crucial. This study investigated how seven LLMs (ChatGPT-4o, ChatGPT-3.5, Llama 3, Gemma, Gemini, Phi-3, Orca-2) describe themselves …
+- **[Risk-sensitive safe reinforcement learning for joint cyber insurance and cybersecurity investment planning in cyber-physical power systems](https://doi.org/10.1038/s41598-026-64656-9)**
+  Mohannad Alhazmi, Xiangge Huang · 2026-11-03
+  > Abstract Cyber insurance and cybersecurity investment are tightly coupled in smart grids because cyberattacks can produce physical outages, financial losses, regulatory exposure, and insurance claims through the same operating event. This study develops a risk-sensitive safe reinforcement learning framework for joint cyber insurance and defense investment planning in cyber-physical power systems. …
+- **[An integrated deep learning framework for EEG-based sleep disorder detection](https://doi.org/10.1038/s41598-026-78324-5)**
+  Prathyusha Kuncha, Bhuvan Unhelkar, Parvathanani Rajendra Kumar, et al. · 2026-11-03
+- **[Generative decision intelligence: leveraging large language models for autonomous multi-objective resource orchestration in dynamic cloud environments](https://doi.org/10.1038/s41598-026-78162-5)**
+  Mostafa Vakilifard, Amir Sahafi, Ali Broumandnia · 2026-11-03
+- **[Predicting short-term mortality in sepsis-associated acute kidney injury: an explainable machine learning model with a web-based prototype](https://doi.org/10.1038/s41598-026-78406-4)**
+  Yufang Zhang, Guangqin Ren, Yixuan Ou, et al. · 2026-11-03
+  > Abstract Geriatric Nutritional Risk Index (GNRI) is associated with prognosis in sepsis-associated acute kidney injury (S-AKI). However, its nonlinear relationship with mortality and its optimal integration into multivariable prediction models remain unclear. Machine learning (ML) methodologies, capable of capturing nonlinear relationships among variables, hold promise for enhancing the accuracy …
+- **[Multifractal signatures reveal source-dependent differences between tectonic earthquakes and icequakes](https://doi.org/10.1038/s41598-026-73922-9)**
+  Walid E. AboElnasr, M. A. Zahran, Mohamed M. Abdelsalam, et al. · 2026-11-03
+  > Abstract Discriminating between local tectonic earthquakes and cryo-seismic events (icequakes) poses a significant challenge for automated seismic monitoring due to the similarity of their waveforms in the time and frequency domains. To address this, we present a robust classification framework utilizing Multifractal Detrended Fluctuation Analysis (MFDFA) combined with machine learning. The …
+- **[Model-free observer-based voltage control of non-holonomic mobile robot using reinforcement learning](https://doi.org/10.1038/s41598-026-76564-z)**
+  Gholamreza Khodamipour · 2026-11-03
 
 ## MDPI (mdpi.com)
 
-### Applied Sciences (13)
+### Machine Learning and Knowledge Extraction (2)
 
-- **[Transferability of SPT-N–Vs Correlations Across a Multi-Country Database: Variability, Validation and Implications for Seismic Site Classification](https://doi.org/10.3390/app162110841)**
-  Ozan Subasi, Serdar Koltuk · 2026-11-02
-  > Correlations between the standard penetration test blow count (SPT-N) and shear wave velocity (Vs) are widely used for seismic site classification of buildings, but their transferability to new sites is rarely tested. A database of 2666 SPT-N–Vs pairs from 13 studies in six countries was compiled and screened to 2045 pairs in four soil groups. Eighty-two published equations were re-evaluated, …
-- **[Joint Direction and Distance Estimation of Low-Energy Photon Point Sources Using a Spatial–Global Dual-Branch CNN](https://doi.org/10.3390/app162110846)**
-  Yier Liu, Jiangang Zhang, Yapeng Yang, et al. · 2026-11-02
-  > An uncollimated scintillator array encodes source direction and distance in both its spatial response and total count rate. We modeled an isotropic 11.6 keV point source and a 12 × 12 yttrium orthosilicate array in Geant4 11.3.2, using a scintillation yield of 15,300 photons MeV−1. A spatial–global dual-branch convolutional neural network, Full, combined normalized response patterns with six …
-- **[Intelligent High-Resolution Marine Seismic Survey Using Machine Learning and Adaptive Acquisition Optimization](https://doi.org/10.3390/app162110845)**
-  Yulin He, Zijian Zhang, Xisun Pang, et al. · 2026-11-02
-  > Conventional high-resolution marine seismic surveys often face challenges in detecting small features in the shallow subsurface because acquisition parameters involve trade-offs among spatial resolution, penetration, signal-to-noise ratio (SNR), and operational efficiency. This study presents an intelligent marine seismic acquisition framework that integrates selectable acquisition hardware with …
-- **[Mitigating Data Imbalance in Head Pose Estimation Through Diffusion Model Generated Synthetic Data with Pose Reference](https://doi.org/10.3390/app162110839)**
-  Dimas Herjuno, Keiichi Horio · 2026-11-02
-  > Many head pose estimation approaches are limited by the scarcity of diverse, accurately annotated datasets, especially for skewed facial orientations. Such extreme angles occur far less frequently in real-world data collection, leaving them severely underrepresented. This weakens trained models exactly at the extreme angles they had few chances to learn. Rather than perturbing existing samples, …
-- **[Identification of Fracture-Related Acoustic Emission Signals in Mine-Site Monitoring Using Multi-Domain Features and a 1D-CNN with Local-Window Self-Attention](https://doi.org/10.3390/app162110838)**
-  Ning Fang, Xiaojun Wang, Chunlin Zhong, et al. · 2026-11-02
-  > Acoustic emission (AE) monitoring captures transient elastic waves generated by rock fracturing. Reliable identification of fracture-related AE signals supports rock-mass damage monitoring and subsequent early-warning analysis of mining-induced geohazards. However, AE signals are often corrupted by operational noise, hindering accurate detection. To improve AE signal identification under complex …
-- **[Plan-Then-Verify: Verifier-First Planning for Early Feasibility Validation in LLM Agent Systems](https://doi.org/10.3390/app162110828)**
-  Emil Benedykciuk, Marcin Denkowski, Marek Jezior, et al. · 2026-11-01
-  > Pre-execution feasibility validation can substantially improve LLM-based task planning without proportional inference cost, but only when it is grounded, deterministic, and tightly bounded. We propose Plan-Then-Verify (PTV), a verifier-first control pattern in which a candidate workflow is checked against a documented knowledge base before execution begins. A planner generates a structured task …
-- **[Minimal Perfect Hashing-Based Multi-Party Private Set Intersection Protocol for Size-Imbalanced Datasets](https://doi.org/10.3390/app162110826)**
-  Jiyeon Lee · 2026-11-01
-  > Existing oblivious transfer (OT)-based private set intersection (PSI) protocols use cuckoo hashing and assume that participants hold similarly sized sets. In multi-institutional collaboration, set sizes differ, and OT costs follow the largest set although the intersection cannot exceed the smallest one. Cuckoo hashing also requires spare bins, a stash, and rehashing to avoid eviction loops. This …
-- **[Predicting Tire Contact Pressure Using Neural Networks and a Physics-Based Prior: An Application to Tread Wear](https://doi.org/10.3390/app162110825)**
-  Chaitanya Shekhar Sonalkar, Alexandru Vilsan, Sadegh Yarmohammadisatri, et al. · 2026-11-01
-  > Footprint mechanics, which govern most of the tire properties, are complex to model and expensive to measure. A physics-based numerical model requires extensive parameterization for modeling each subcomponent, while data-driven models are limited by the cost of extensive experimentation and may be unreliable beyond their data envelope. This work develops a hybrid predictor in which a …
-- **[Prediction of Agricultural Land Cover Change with the Use of ANNs and Open Source Data](https://doi.org/10.3390/app162110820)**
-  Marek Weis, Wojciech Dawid · 2026-10-31
-  > Land cover changes occur continuously across the world. Both human activities and natural processes constantly modify the appearance of a given area. Predicting the direction of such changes can not only help prepare the population mentally for them, but also provide tangible benefits. This is particularly important for agricultural areas, whose location is crucial to the efficiency of …
-- **[Momentum-Guided Architecture Optimization for Trophectoderm Segmentation in Day-5 Human Blastocyst Images](https://doi.org/10.3390/app162110812)**
-  Mohan Bhandari, Chandra Prakash Bhatta, Priyanka Chaurasia, et al. · 2026-10-31
-  > In assisted reproduction, accurate segmentation of human blastocyst (HB) components is essential for embryo assessment and selection. Deep learning-based segmentation methods, including U-Net variants and DeepLab architectures, have demonstrated strong performance. While these algorithms have shown strong performance, their architectures are typically designed manually and require extensive …
-- **[Classification of Intact Rock Uniaxial Compressive Strength Using Measurement-While-Drilling Data from Tunnel Drilling Jumbos: Method Development and Field Validation on the Sichuan–Tibet Railway](https://doi.org/10.3390/app162110821)**
-  Yang Li, Haiqiang Yang, Yanmeng Wang, et al. · 2026-10-31
-  > Identifying rock conditions ahead of a tunnel face is essential for drilling-parameter optimization, construction safety, and support design. Measurement-while-drilling (MWD) data from drilling jumbos offer a continuous, low-cost basis for this task, but non-steady operational states introduce strong disturbances. Based on the XCMG XTD3133C drilling jumbo, this study develops an MWD-based method …
-- **[Fatigue Crack Growth in Additively Manufactured and Advanced Alloys: From Synchrotron Imaging to Physics-Informed Digital Twins](https://doi.org/10.3390/app162110813)**
-  Abdulnaser M. Alshoaibi, Omer Y. Bakather · 2026-10-31
-  > Predicting fatigue crack growth in structural alloys requires linking processes that span enormous differences in scale, from crystallographic slip at the nanoscale to failure of an entire component. Engineering assessments still rely heavily on phenomenological models such as Paris, Walker and NASGRO. These models are practically useful, but their limitations become apparent under multiaxial …
-- **[Toward AI-Driven Olfactory Biomarkers for Nutrition and Preventive Healthcare: A Literature Review](https://doi.org/10.3390/app162110815)**
-  Alessandro Tonacci, Francesca Gorini · 2026-10-31
-  > Artificial Intelligence (AI) is rapidly reshaping the sectors of digital health and preventive medicine, although the role of olfaction—one of the most informative yet underutilized human senses—remains largely unexplored in this context. A growing body of evidence links olfactory function to metabolic health, dietary habits, neurodegeneration, and overall well-being, suggesting that olfactory …
+- **[ByteScope: Detection-Aware Learning for Robust Visual Malware Recognition Under Leakage-Audited, Open-World Evaluation](https://doi.org/10.3390/make8110360)**
+  Arsanchai Sukkuea, Pensiri Akkajit, Nanda Kumar Tharu, et al. · 2026-11-01
+  > Visual malware recognition classifies byte-plot images of executables and reports near-perfect accuracy, yet it is rarely evaluated the way a deployed detector would be. We present ByteScope, a framework that adds a cosine-margin family classifier, a supervised contrastive embedding for rejecting unknown families, and a class-balanced malware detection head calibrated at a fixed false-positive …
+- **[Health-Related Quality of Life Among US Adults with Long COVID: Development and External Validation of a Prediction Model](https://doi.org/10.3390/make8110361)**
+  Tahmina Nasrin Poly, Md. Mohaimenul Islam, Ming-Chin Lin · 2026-11-01
+  > Long COVID is associated with substantial impairment in health-related quality of life (HRQoL), and social determinants of health may improve the identification of individuals with greater HRQoL burden. However, few prediction models have been externally validated, and the apparent contribution of social factors may be inflated when models include predictors that are conceptually close to the …
+
+### Big Data and Cognitive Computing (1)
+
+- **[Role-Aware and Type-Aware Hyper-Relational Knowledge Graph Completion](https://doi.org/10.3390/bdcc10110373)**
+  Cong Wu, Jing Tan, Aquil Mirza Mohammed, et al. · 2026-11-03
+  > Knowledge graphs are foundational to structured knowledge representation and drive the evolution of artificial intelligence from data-driven to knowledge-enhanced paradigms. Hyper-relational knowledge graphs employ hyperedge structures to overcome the expressive limitations of conventional triple-based schemes in modeling complex multi-entity facts with intricate dependency constraints. However, …
+
+### Applied Sciences (9)
+
+- **[Cognitive Engagement as a Key Mechanism of Cognitive Sustainability in the Age of Generative AI: An Interdisciplinary Framework](https://doi.org/10.3390/app162110872)**
+  René Riedl, Frank Krueger · 2026-11-03
+  > Generative Artificial Intelligence (GenAI) systems can improve productivity, yet their long-term implications for human cognition remain contested. This article develops an interdisciplinary framework for explaining how different patterns in the distribution and support of cognitive operations between humans and GenAI may shape cognitive engagement and cognitive outcomes over time. The framework …
+- **[Natural Gas Hydrate Formation Pressure Prediction Based on Machine Learning](https://doi.org/10.3390/app162110890)**
+  Lumeng Jiang, Jiawei Xue, Hao Li, et al. · 2026-11-03
+  > Natural gas hydrate formation and accumulation in pipelines may increase pressure drop and, in severe cases, cause blockage, thereby affecting safe pipeline operation. Hydrate formation pressure represents the pressure boundary at which hydrates begin to form stably under a given temperature and gas composition, and is an important parameter for assessing whether the operating pressure is …
+- **[A Human-in-the-Loop Explainable AI Framework for Citizen Participation in Smart-City Decision-Making](https://doi.org/10.3390/app162110888)**
+  Doniyorjon Mukhtorov, Ryskhan Satybaldiyeva, Zhuldyz Kalpeyeva, et al. · 2026-11-03
+  > Artificial intelligence (AI) increasingly informs smart-city services, yet residents can rarely see why an automated decision was made or correct it when it is wrong, so their participation remains passive. This study proposes a human-in-the-loop explainable AI (HITL-XAI) framework in which residents act as sensors, annotators, evaluators, and stewards of urban trees. Residents scan the QR marker …
+- **[Beyond the Laboratory: Deep Learning-Based Reconstruction of Force-Plate Measurements Using Wearable Pressure-Sensitive Insoles](https://doi.org/10.3390/app162110874)**
+  Kun-Chan Lan, Ivan Tichtchenko, Jakaria Jakaria, et al. · 2026-11-03
+  > Reconstructing force-plate measurements from wearable pressure insoles could support portable biomechanical assessment, but generalization to unseen wearers and fast loading events requires rigorous validation. We investigated pressure-only regression of six right-foot force and moment components and derived center-of-pressure (COP) coordinates during in-place walking and quiet standing. …
+- **[Bearing Remaining Useful Life Prediction and Maintenance Decision Support Using a Large Language Model](https://doi.org/10.3390/app162110864)**
+  Kai Wang, Meng Yan, Daqian Yu, et al. · 2026-11-02
+  > Bearing remaining useful life (RUL) estimates require causal inputs and temporal consistency before supporting maintenance. This study develops a large language model (LLM)-assisted pipeline connecting online degradation evidence, prediction applicability, structured state output, and maintenance rules. Historical vibration evidence is used to construct a health indicator and determine the domain …
+- **[TempCL-Cite: Leveraging Temporal Signals and LLM Positives in Contrastive Learning for Citation Intent Classification](https://doi.org/10.3390/app162110848)**
+  Yu Song, Xiaodong Lu, Lidan Wan, et al. · 2026-11-02
+  > Citation intent classification identifies the underlying functions of scholarly citations and provides semantic information beyond citation counts. However, existing methods pay limited attention to temporal information in citation relationships and are often constrained by the scarcity of high-quality annotated data. To address these challenges, we propose TempCL-Cite, a temporal-aware …
+- **[A Variationally Derived Quasi-3D Thickness Function for Laminated Composite Plates on Winkler, Pasternak and Kerr Foundations](https://doi.org/10.3390/app162110856)**
+  Dragan Čukanović, Aleksandar Radaković, Gordana Bogdanović, et al. · 2026-11-02
+  > This study develops a quasi-3D higher-order shear deformation theory for the static analysis of laminated composite plates on elastic foundations. The seven-field kinematic formulation employs a single through-thickness function whose successive derivatives describe higher-order in-plane deformation, transverse shear, and transverse normal deformation. The central contribution is the variational …
+- **[AgentHammer: Triggering Simulated Rowhammer Bit-Flips via LLM Agents with Hardware-Aware Simulation-in-the-Loop Skills](https://doi.org/10.3390/app162110859)**
+  Cheng Qian, Ming Zhang, Huayang Cao, et al. · 2026-11-02
+  > As modern DRAM manufacturing processes continue to shrink, the Rowhammer vulnerability has emerged as one of the most severe threats to microarchitectural security isolation. To defend against such attacks, hardware vendors have introduced complex black-box defense mechanisms in memory controllers, such as FR-FCFS (First-Ready First-Come–First-Serve) queue coalescing, Target Row Refresh (TRR), …
+- **[Revisiting Load-Stepping in Digital Photoelasticity: A Comparative Framework Bridging Hardware, Computation, and Emerging Paradigms](https://doi.org/10.3390/app162110868)**
+  Juan Briñez-de León, Mateo Rico-García, José López-Prado, et al. · 2026-11-02
+  > This work presents a comprehensive analysis of the load stepping method in digital photoelasticity, examined through four complementary perspectives: the classical formulation of load stepping, its extension using polarized-camera technology, a computational hybrid strategy, and exploratory deep learning approaches. Motivation arises from the need to quantify stress fields with greater robustness …
