@@ -1,181 +1,198 @@
-# JournalWatch – AI- & Computing-Report 2026-11-12
+# JournalWatch – AI- & Computing-Report 2026-11-13
 
-Neue AI-/Computing-Publikationen seit 2026-11-10: **46**
+Neue AI-/Computing-Publikationen seit 2026-11-11: **55**
 
 ## Nature Portfolio (nature.com)
 
 ### Nature Computational Science (1)
 
-- **[Open foundation models for clinical AI](https://doi.org/10.1038/s43588-026-01094-7)**
-  Vikas Bansal · 2026-11-12
+- **[Training reservoirs without looking back](https://doi.org/10.1038/s43588-026-01079-6)**
+  Hanglin He, Alexandros Emboras · 2026-11-13
 
-### Nature Electronics (1)
+### Scientific Reports (9)
 
-- **[A smart display woven on your sleeve](https://doi.org/10.1038/s41928-026-01743-9)**
-  Yan Huang · 2026-11-12
-
-### Nature Communications (3)
-
-- **[Autapse-inspired neuromorphic hardware with synapse–neuron integration for bidirectional feedback control](https://doi.org/10.1038/s41467-026-79401-z)**
-  Chan Kim, Seonkwon Kim, Jeong Hwan Song, et al. · 2026-11-12
-  > Abstract Establishing autonomous and energy-efficient feedback control at the hardware level remains challenging because conventional systems rely on centralized processing and continuous external computation, increasing energy consumption and system complexity. Here we show a neuromorphic autapse-inspired system that enables localized and bidirectional feedback control, using thermoregulation as …
-- **[Scaling medical imaging report generation with multimodal reinforcement learning](https://doi.org/10.1038/s41467-026-78767-4)**
-  Qianchu Liu, Sheng Zhang, Guanghui Qin, et al. · 2026-11-12
-  > Abstract In medical imaging report generation, supervised fine-tuning can overfit to superficial patterns and generalize poorly across institutions. We introduce Universal Report Generation (UNIRG), which adopts reinforcement learning to directly optimize clinically meaningful quality criteria. With this framework, we developed UNIRG-CXR, an 8-billion-parameter vision–language model trained on …
-- **[Single photon reflection from a quantum dot in a waveguide](https://doi.org/10.1038/s41467-026-78984-x)**
-  Tarun Patel, Matteo Pennacchietti, Sayan Gangopadhyay, et al. · 2026-11-11
-  > Abstract Single-atom waveguide-QED systems have emerged as a leading platform for demonstrating non-linear optics in the few-photon regime. Devices with such non-linear behavior are necessary for developing deterministic gates for photonic quantum computing. Artificial atoms coupled to nanophotonic or superconducting waveguides can be used to engineer highly efficient light-matter interfaces for …
-
-### Scientific Reports (13)
-
-- **[Physics-regularized neural network and multi-objective optimization for sustainable multi-binder concrete mix design](https://doi.org/10.1038/s41598-026-80311-9)**
-  Ahmed Almutairi, Raid Alrowais, Muhammad Tariq Bashir, et al. · 2026-11-12
-- **[Performance optimization of evacuated tube solar air heater with twisted tape by using various machine learning methods](https://doi.org/10.1038/s41598-026-79596-7)**
-  A. Veerakumar, C. Ramkumar, T. Karthickmunisamy, et al. · 2026-11-12
-- **[Machine learning prediction of thermophysical properties of TiO₂–CuO/water hybrid nanofluid: an SVR–SHAP framework with three-protocol cross-validation](https://doi.org/10.1038/s41598-026-80241-6)**
-  K. B. Naveen, Ved Prakash Mishra, A. Jayanthiladevi, et al. · 2026-11-12
-- **[Advancing Grammar Error Correction in informal digital communication: a hybrid CNN-BART approach with adaptive noise modeling](https://doi.org/10.1038/s41598-026-76945-4)**
-  Tanzila Kehkashan, Muhammad Abdullah, Ahmad Sami Al-Shamayleh, et al. · 2026-11-12
-  > Abstract Grammar Error Correction (GEC) has emerged as a critical natural language processing task with applications in educational technology, automated proofreading, and digital communication enhancement. Although current transformer-based methods have shown remarkable results in formal textual settings, they struggle to handle the linguistic diversity and situational ambiguity of informal …
-- **[ASIA: adaptive single-diffusion-stage inference acceleration for diffusion-based virtual try-on](https://doi.org/10.1038/s41598-026-74469-5)**
-  Shrouk Mansour, Eid Mohamed Elemry, Asmaa A. E. Osman, et al. · 2026-11-12
-  > Abstract Virtual try-on synthesises an image of a person wearing a chosen garment. Diffusion models give the most realistic results, but remain too slow for interactive use. The leading method, TPD, runs its diffusion network twice: a first pass predicts a pair-specific mask locating where the garment belongs, and a second pass renders the garment into that region. Each pass takes about 100 …
-- **[UltraSAM-based left ventricular analysis with local–global feature fusion for echocardiographic cardiac disease classification](https://doi.org/10.1038/s41598-026-78008-0)**
-  Abdulwahab Alazeb, Farhat Basir, Shaheryar Najam, et al. · 2026-11-12
-  > Abstract Cardiovascular diseases, particularly myocardial infarction (MI), remain a leading cause of global mortality, necessitating accurate and early diagnostic solutions beyond conventional operator-dependent echocardiographic analysis. The proposed hybrid deep learning framework in this study combines the region-specific and global representations for automatic cardiac disease classification …
-- **[Quantum gate optimization in hybrid neural networks for deepfake audio detection](https://doi.org/10.1038/s41598-026-79425-x)**
-  Abdullah Khan, Wazir Zada Khan, Ayesha Siddiqa, et al. · 2026-11-12
-- **[Resource-aware QAOA for autoclave batch scheduling in composite manufacturing using QUBO decomposition and parameter transfer](https://doi.org/10.1038/s41598-026-75912-3)**
-  Abdulrazak Jinadu Otaru, Obinna Onyebuchi Barah, Ige Bori, et al. · 2026-11-12
-  > Abstract Industrial quantum computing requires problem decompositions that respect near-term resource limits while preserving operational value. This study presents a hybrid classical-quantum workflow for autoclave batch scheduling in composite manufacturing, in which release-time and cure-family logic remain in a classical orchestration layer and each batch-selection decision is encoded as a …
-- **[Explainable AI-driven neural activity analysis in Parkinsonian rats under electrical stimulation](https://doi.org/10.1038/s41598-026-79944-7)**
-  Hanseul Choi, Gaeun Kim, Sunggu Yang, et al. · 2026-11-12
-- **[Adaptive structural fusion for dielectric constant prediction using physics-guided graph neural networks](https://doi.org/10.1038/s41598-026-78263-1)**
-  Jyothi Shetty, Rajashree Krishna, Shobha R. Prabhu · 2026-11-12
-  > Abstract Accurate prediction of dielectric response is essential for improving the discovery of materials for electronic, energy-storage, radio-frequency, sensing, and optoelectronic applications. However, dielectric datasets are typically dominated by materials with low to moderate dielectric response, while high-dielectric materials are severely under-represented, making reliable prediction …
-- **[A blockchain-secured multi-agent GNN–XGBoost framework for intelligent energy coordination in IoT-enabled sustainable smart grids](https://doi.org/10.1038/s41598-026-73849-1)**
-  Siva Kumar Kommerla, Baddu Naik Bhukya, S Mani Kuchibhatla, et al. · 2026-11-12
-  > Abstract The increasing deployment of distributed energy resources and intelligent devices has transformed conventional power networks into highly decentralized smart grid ecosystems. While this evolution offers significant opportunities for improving energy efficiency and sustainability, it also introduces challenges related to real-time energy coordination, dynamic load balancing, secure data …
-- **[A privacy preserving federated learning framework for rice leaf disease classification and severity estimation using indian field data](https://doi.org/10.1038/s41598-026-76513-w)**
-  Debangana Ram, Manasi Gyanchandani, Akhtar Rasool, et al. · 2026-11-12
-- **[MODWT-driven explainable spatio-temporal IDS for securing EV charging infrastructures](https://doi.org/10.1038/s41598-026-69847-y)**
-  Akshitha K. Subran, Sriram Sankaran, Parvathinathan Venkitasubramaniam, et al. · 2026-11-12
-  > Abstract The rapid deployment of Electric Vehicle Charging Stations (EVCS) has introduced significant cybersecurity challenges, as these infrastructures are increasingly targeted by adversaries seeking to disrupt charging services, manipulate billing, or compromise user privacy. Conventional intrusion detection systems often fail to detect attacks due to the dynamic and non-linear nature of EVCS …
+- **[A dual-modal fiducial marker with single-view x-ray pose recoverability for MR-guided surgical navigation](https://doi.org/10.1038/s41598-026-77300-3)**
+  Ganzhe Xu, Xi Li, Wenyi Xiong, et al. · 2026-11-13
+  > Abstract In orthopedic surgery, accurate intraoperative localization of implants and instruments is essential. Traditional surgical navigation markers rely on a fixed external reference frame, but in mixed reality (MR) surgical navigation the tracking camera moves with the surgeon’s head, making conventional markers unsuitable. This study proposes that markers for MR navigation must satisfy three …
+- **[Transform-based audio processing for neuromorphic cochlear implants](https://doi.org/10.1038/s41598-026-76746-9)**
+  Paweł Tumialis, Andrzej Czyżewski, Henryk Skarżyński · 2026-11-13
+- **[A dual artificial neural network core PRNG on FPGA driven by a novel 4D hyperchaotic system with hidden attractor](https://doi.org/10.1038/s41598-026-79716-3)**
+  Murat Tuna, Sundarapandian Vaidyanathan, Murat Alçın, et al. · 2026-11-13
+- **[Privacy and security preservation of bitcoin digital currency transactions on mixing services using enhanced heuristic-aided optimal weighted features and hybrid deep learning network](https://doi.org/10.1038/s41598-026-66962-8)**
+  S. Ezhilmathi, Dr. Selvakumara Samy S · 2026-11-13
+- **[Machine learning-based prediction of overall survival after lung SBRT using clinical, dosimetric, and radiomics features: a multicenter study](https://doi.org/10.1038/s41598-026-77575-6)**
+  Camille Invernizzi, Pierre-Louis Benveniste, Radouane El Ayachy, et al. · 2026-11-13
+- **[Energy-efficient flexible job shop scheduling under time-of-use electricity pricing using a reinforcement learning-assisted evolutionary algorithm](https://doi.org/10.1038/s41598-026-73460-4)**
+  Shenghui Guo, Shuai Li, Guohui Zhang, et al. · 2026-11-13
+  > Abstract To address the difficulty of jointly optimizing production efficiency and electricity cost in flexible job shop scheduling under time-of-use electricity pricing, a bi-objective scheduling model is established to minimize the makespan and total electricity cost. An energy-aware hybrid reinforcement optimization algorithm (EAHROA) is proposed. The algorithm adopts a two-segment OS-MS …
+- **[SQCDL-WIoT: a scalable quantum convolutional deep learning framework with wearable IoT integration for breast cancer screening](https://doi.org/10.1038/s41598-026-73447-1)**
+  Kama Ramudu, Swapna Saturi, Boddu Ramadevi, et al. · 2026-11-13
+  > Abstract Deep learning techniques have greatly improved the ability to perform automatic diagnosis of breast cancer through use of computers; however, existing techniques are generally complex and costly, do not well incorporate multiple data modalities, and cannot be deployed clinically in real time. This paper proposes SQCDL-WIoT, which is a scalable, wearable-based internet of things …
+- **[Predicting compressive strength of concrete using machine learning](https://doi.org/10.1038/s41598-026-79849-5)**
+  Malak Alzaidi, Amirah Rasheed, Retaj Aldehani, et al. · 2026-11-13
+  > Abstract Concrete compressive strength is verified by destructive testing after curing, which limits how quickly candidate mixtures can be screened. This study evaluates whether mixture proportions and curing age support accurate, interpretable preliminary estimates, and how much the reported accuracy depends on the evaluation protocol. Linear Regression, Support Vector Regression, Random Forest, …
+- **[A machine learning based node influence analysis using isolating and betweenness centrality measures](https://doi.org/10.1038/s41598-026-79588-7)**
+  Mondikathi Chiranjeevi, V. Sateeshkrishna Dhuli, Murali Krishna Enduri · 2026-11-12
 
 ## Science / AAAS (science.org)
 
-### Science Advances (3)
+### Science (1)
 
-- **[Boosting stability and charge transfer of conducting polymer poly(benzodifurandione) (PBFDO) through complementary topology](https://doi.org/10.1126/sciadv.aej0737)**
-  Yuhao Geng, Bowen Yao, Yuyao Lu, et al. · 2026-11-13
-  > Poly(benzodifurandione) (PBFDO) is a benchmark n-type conjugated polymer known for its record-high electrical conductivity. Nevertheless, its thermal robustness and charge/ion transport characteristics remain insufficient. To address this issue, we report a hierarchical complementary topology strategy via doping PBFDO with choline chloride (ChCl). At the molecular scale, the cations Ch + …
-- **[Passive imaging with quantum advantage](https://doi.org/10.1126/sciadv.aei1896)**
-  Li Gong, Aonan Zhang, Madhura Ghosh Dastidar, et al. · 2026-11-13
-  > Far-field optical imaging inevitably involves low-pass spatial filtering, limiting the resolution. Moreover, conventional imaging suppresses high spatial frequency components close to the cutoff, making them invisible under noise—particularly the shot noise arising from discrete and random nature of quantum light. Here, we propose and implement a method for reducing the effect of this noise by …
-- **[Nonlinear cooling and control of a mechanical quantum harmonic oscillator](https://doi.org/10.1126/sciadv.aee5380)**
-  Matteo Simoni, Ivan Rojkov, Matteo Mazzanti, et al. · 2026-11-13
-  > Nonlinearities are a key feature allowing nonclassical control of quantum harmonic oscillators. However, when nonlinearities are strong, designing protocols for control is often difficult, placing a barrier to exploiting these properties fully. In this work, using a single trapped-ion oscillator operated in the strongly nonlinear regime of the atom-light interaction, we show how to generate …
-
-### Science Robotics (3)
-
-- **[Through human eyes: How perception and interaction shape humanoid robot acceptance](https://doi.org/10.1126/scirobotics.aek1050)**
-  Katharina Kühne, Yuefang Zhou, Martin H. Fischer · 2026-11-11
-  > Robot acceptance is shaped by dynamic, multimodal interactions that influence trust, comfort, and behavioral intentions.
-- **[Heavy metal acrobatics: Learning dynamic control for skid-steer loaders](https://doi.org/10.1126/scirobotics.aef0894)**
-  Pierre-Jean Lorentz, Pascal Egli, Edo Jelavic, et al. · 2026-11-11
-  > Automation of heavy machinery offers the opportunity to improve productivity in mechanized industries such as construction, mining, and material handling. Yet, automation of such machines is challenged by their complex dynamics, in part because of hydraulic actuation that involves fluids, flexible elements, and nonlinear delays. A concomitant challenge is the size and weight of these machines, …
-- **[Autane: An autonomous crane for sustained port operations](https://doi.org/10.1126/scirobotics.ady5784)**
-  Jun Yang, Zheng Tian, Junming Hong, et al. · 2026-11-11
-  > Fully automated cranes are revolutionizing modern port operations by addressing labor shortages, improving precision, and enhancing safety. Toward this goal, we present the Autane (autonomous crane) system specifically developed for rubber tire gantry (RTG) cranes handling standardized containers in port yards, enabling autonomous safety-critical container grabbing, transport, and placement with …
+- **[Building a cell engineering toolbox](https://doi.org/10.1126/science.aen0898)**
+  Kaiyi Jiang · 2026-11-12
+  > Biological diversity and deep learning are harnessed for discovery
 
 ## MDPI (mdpi.com)
 
-### AI (1)
+### AI (6)
 
-- **[Adaptive Partition Optimization Method for Water Distribution Network Monitoring Points Driven by Multi-Source Data Fusion](https://doi.org/10.3390/ai7110477)**
-  Xuyang Gong, Xianpeng Wang, Jingjing Zhang, et al. · 2026-11-11
-  > This study proposes a multi-source data fusion method for adaptive monitoring partitioning and sensor placement in water distribution networks (WDNs). It aims to improve leakage-sensing coverage and regional localization accuracy with limited monitoring resources. With boundary-node assignment (BNA) adjustment as its focus, the method first integrates nodal pressure and pipe flow time series …
+- **[An Integrated UAV-Based Computer Vision Framework for Non-Invasive Biomass Estimation of Red Tilapia (Oreochromis spp.)](https://doi.org/10.3390/ai7110483)**
+  Hiormann Fernando Peña-Pérez, Jhos Ben Xavio Hurtado Herrera, Jhony Armando Benavides-Bolaños, et al. · 2026-11-13
+  > Biomass estimation in aquaculture usually requires capturing and weighing fish. This study tested whether images from an unmanned aerial vehicle (UAV) can supply the mean weight of red tilapia (Oreochromis spp.) without handling the animals. A YOLO26 instance-segmentation cascade located the culture unit, the fish and a floating 15 × 35 cm panel; a per-image homography to the panel gave metric …
+- **[Parameter-Efficient Temporal Convolutional Networks for Multivariate Time-Series Forecasting](https://doi.org/10.3390/ai7110481)**
+  Aleksa Bogdanović, Lazar Z. Velimirović, Jelena D. Velimirović, et al. · 2026-11-12
+  > Accurate prediction of multivariate datasets increasingly relies on deep learning models, often increasing complexity and computing requirements, particularly for multi-horizon predictions. This work proposes a model designed to significantly reduce computing requirements while retaining predictive accuracy. By replacing standard convolutions with depthwise and grouped pointwise operations, the …
+- **[Toward a Clinical AI License for Independent Initial Diagnosis and Prescribing in Primary Care](https://doi.org/10.3390/ai7110480)**
+  Yusaku Fujii · 2026-11-12
+  > Recent medical large language models have been reported to approach physician-level performance in selected diagnostic and prescribing-related tasks, yet regulations continue to restrict clinical authority to licensed human professionals. Without assuming artificial general intelligence (AGI), I propose a Clinical AI License with four requirements, disease-domain performance thresholds, staged …
+- **[Correctly Parsed, Wrong Lesion: Where Target Mix-Ups Arise When AI Binds Measurement Requests to Lung CT Nodules—A Staged, Hypothesis-Generating Evaluation](https://doi.org/10.3390/ai7110478)**
+  Shuji Yamamoto · 2026-11-12
+  > AI systems that measure lesions on request can compute correctly on the wrong lesion, an outcome no benchmark I found scores. I located where such mix-ups arise, in three stages on public lung CTs. A stratified audit of 1785 DICOM segmentation series found identical coded semantics for all 5192 pairs of different nodules on one scan; nodule numbers existed but needed linking to the request. A …
+- **[MS-DA-ResNet: A Multiscale Dual-Attention Residual Network for Remaining Useful Life Prediction of Aero-Engines Under Multiple Operating Conditions](https://doi.org/10.3390/ai7110479)**
+  Shiyang Li, Jianzhe Feng, Peixiao Fan, et al. · 2026-11-12
+  > Accurate remaining useful life (RUL) prediction of aero-engines under varying operating conditions is challenging because condition-induced sensor variations can obscure degradation signatures. This study evaluates a multiscale dual-attention residual network (MS-DA-ResNet) under a leakage-controlled protocol on the multiple-condition FD002 and FD004 subsets. The 125-cycle cap is applied only to …
+- **[CALIBER: Conditional Adversarial Learning for Intelligent Retinal Vessel Segmentation and Quantitative Biomarker Extraction](https://doi.org/10.3390/ai7110482)**
+  María Herrero-Tudela, Roberto Romero-Oraá, Gonzalo C. Gutiérrez-Tobal, et al. · 2026-11-12
+  > The examination of the retinal vasculature through fundus images provides a direct insight into vessel morphology, which is crucial in the diagnosis of the leading causes of blindness, such as glaucoma, diabetic retinopathy (DR), and age-related macular degeneration (AMD). However, the objective and quantitative interpretation of the retinal vasculature is not possible without a precise vessel …
 
-### Machine Learning and Knowledge Extraction (1)
+### Machine Learning and Knowledge Extraction (2)
 
-- **[From Guideline Grounding to Trustworthy Clinical Decision Support: A Systematic Scoping Review of Patient-Specific LLM Systems](https://doi.org/10.3390/make8110376)**
-  Veska Gancheva · 2026-11-12
-  > Large language model (LLM) systems can combine clinical guidelines with individual patient information to support patient-specific clinical decisions. Trustworthy guideline-grounded decision support depends on whether recommendations are applicable to the patient, supported by the guideline source, appropriately safeguarded, and clinically evaluated. This systematic scoping review examined how …
+- **[A Multitask XLM-R-Based Hybrid Approach for Named Entity Recognition, Coreference Resolution, and Genealogical Relation Extraction from Uzbek Historical Documents](https://doi.org/10.3390/make8110378)**
+  Adilbek Dauletov, Shahlo Khamroeva, Mukaddas Abduraxmanova, et al. · 2026-11-12
+  > Automatically extracting genealogical information from historical documents in the Uzbek language requires identifying personal names, linking various expressions referring to the same individual, and determining kinship relations between persons. However, this process is complicated by factors such as variations in the spelling of personal names, the presence of archaic vocabulary, and the …
+- **[Locating and Repairing Negative Transfer in Few-Shot IoT and Encrypted Traffic Classification with a Control-Led Evaluation Protocol](https://doi.org/10.3390/make8110377)**
+  Muntakimur Rahaman, Azwan Mahmud, Azlan Abd Aziz, et al. · 2026-11-12
+  > Few-shot traffic classifiers promise to adapt to new devices, protocols and attacks from a few labeled flows, yet headline accuracies can conceal failures under domain shift. We propose the Control-Led Few-Shot Traffic Evaluation Protocol (CL-FSTP), which labels each target by distribution status, compares every model with a same-budget random-initialization control given the same readout, audits …
 
-### Big Data and Cognitive Computing (2)
+### Algorithms (11)
 
-- **[Research on Solid Motor Performance Prediction Method Based on Deep Meta Learning](https://doi.org/10.3390/bdcc10110386)**
-  Huixin Yang, Fanbin Meng, Cheng Chen · 2026-11-12
-  > Total impulse characterizes the overall propulsive capability of a solid rocket motor. The cost and resources required for ground static firing tests limit data availability, while temperature-dependent thrust variations complicate modeling with few records. This study develops an MT model that combines model-agnostic meta-learning with a Transformer. Complete thrust records are divided into …
-- **[An Adaptive Human-in-the-Loop Generative AI Framework for Professional-Supported Pronunciation Exercise Design: Ex Ante Evaluation in Down Syndrome](https://doi.org/10.3390/bdcc10110387)**
-  Geovanny Cudco, Mayra Álvarez-Jiménez, Hector Pinto, et al. · 2026-11-12
-  > Personalized pronunciation-exercise design requires context-sensitive content, longitudinal adaptation, and professional oversight. This study presents Speak4All, a cloud-deployed human-in-the-loop (HITL) generative AI framework integrating structured learner profiles, professional assessments, interpretable difficulty recommendations, deterministic constraint validation, and explicit human …
+- **[A GNN-Guided Memetic Algorithm for Critical-Node-Aware Scheduling in Networked Systems](https://doi.org/10.3390/a19111001)**
+  Rongjie Wang, Jingjing Chen, Bo Yan, et al. · 2026-11-13
+  > In wireless rechargeable sensor networks (WRSNs), relay-critical sensors support multihop data delivery, so their energy depletion can disrupt traffic from other nodes. We propose a GNN-guided memetic algorithm for critical-node-aware mobile charging. First, a composite structural-importance metric identifies the critical set, and a deterministic topology-and-energy heuristic supplies node-value …
+- **[Computational Modeling and Intelligent Simulation of Next-Generation Energy Systems](https://doi.org/10.3390/a19110991)**
+  Arya Abdollahi, Frank Werner · 2026-11-12
+  > The global energy landscape is changing rapidly [...]
+- **[Multi-Sensor Wharf Yard Settlement Forecasting via SSA-PCA Sensor Fusion and Heterogeneous Gradient Boosting](https://doi.org/10.3390/a19110996)**
+  Xiaoyan Cui, Tao Zhang, Ziran Chen · 2026-11-12
+  > Accurate prediction of wharf yard settlement is difficult because monitoring records combine long-term drift, nonlinear load responses, sensor noise, and redundant exogenous variables. This study presents a three-stage framework that integrates multi-sensor data, separates trend and residual components, and combines heterogeneous learners. An ARIMA model first extracts the linear settlement …
+- **[Enhancing Rule Construction in Grammatical Evolution with Advanced Crossover Techniques](https://doi.org/10.3390/a19110995)**
+  Ioannis G. Tsoulos, George Georgoulas, Vasileios Charilogis · 2026-11-12
+  > Many real-world problems can be formulated as classification tasks in machine learning and addressed using a wide range of advanced algorithms developed for this purpose. Among these approaches, methods based on Grammatical Evolution (GE) can also be employed, such as GenClass, a technique designed to automatically construct classification rules. Although GenClass has been successfully applied to …
+- **[Testing Objective Criteria Weights Against Equal Weights Under Serial Dependence: Size, Power, Decision Regret and a Saudi Arabia–China Risk-Factor Panel](https://doi.org/10.3390/a19110998)**
+  Mohammed Shiqdar, Junhua Hu · 2026-11-12
+  > Entropy and CRITIC weighting can produce unequal weights through sampling variation alone, so departures from equal weights call for a test. We propose stability-shrinkage entropy–CRITIC (SSEC), a fitted-null abstention test that keeps equal weights unless data-driven weights differ beyond bootstrap noise. It targets the weight functional, not equal importance. Cell-fitted size lies in the …
+- **[Empirical Analysis of Fidelity in Multi-Fidelity Hyperparameter Optimization](https://doi.org/10.3390/a19110997)**
+  Fan Li, Shifeng Huang, Jingye Hai, et al. · 2026-11-12
+  > The performance of many machine learning algorithms depends on their hyperparameter settings. To reduce the high cost of evaluating hyperparameter configurations, various multi-fidelity hyperparameter optimization (MFHPO) methods have been developed. However, most existing methods either select low-fidelity levels uniformly or rely on expert knowledge, often overlooking the relationship between …
+- **[Learning-Based Algorithms and NLP for Adaptive E-Participation in Smart Cities: A Systematic Review and Knowledge Engineering Perspective](https://doi.org/10.3390/a19111000)**
+  Zaineb Berra, Sara Arezki, Badr Ben Hichou · 2026-11-12
+  > The E-participation platforms of smart cities have not been very progressive to date and mainly provide one-size-fits-all interfaces, which do not suit citizens’ varying motives, digital literacy, or situational contexts. Mobile platforms for e-participation should be designed adaptively, but existing examples show that despite this adaptability, there is still a gap between the design of such …
+- **[SDE-YOLO: An Improved YOLOv8 Algorithm for Weed Detection in Crop Fields](https://doi.org/10.3390/a19110994)**
+  Jianan Wang, Yuqiang Dai, Liang Wu, et al. · 2026-11-12
+  > Sesame is an important oilseed crop, but weed infestation can adversely affect its growth and yield. Missed weed detections may compromise subsequent control operations, making reliable and comprehensive weed detection essential for precision agriculture. To reduce missed detections while maintaining low model complexity, this study proposes SDE-YOLO, a lightweight detector based on YOLOv8n. …
+- **[Stable Levenshtein Spheres for Run Strings: Exact Formulas, Certification, and Polynomial Structure](https://doi.org/10.3390/a19110999)**
+  Said Algarni · 2026-11-12
+  > Exact sizes of Levenshtein spheres are hard to compute because different edit scripts can produce the same string. We study run strings u=x1n1…xmnm in the stable regime, where every run length is at least the radius r. For r=2 we prove a closed formula for |SL(u,2)| for every m≥2: the layers of output length n−1, n and n+1 are identified with explicit sets of strings described through longest …
+- **[Data-Driven Component-Wise Forecasting of Heterogeneous Vehicle–Environment Temperature Channels for Infrared-Oriented Applications](https://doi.org/10.3390/a19110993)**
+  Hao Peng, Bentian Hao, Weidong Xu, et al. · 2026-11-12
+  > Forecasting heterogeneous vehicle–environment temperatures requires models that accommodate differences in amplitude, persistence and meteorological response while keeping component-model proliferation manageable. This study presents a channel-adaptive component forecasting framework and directed reuse of frozen dominant-component predictors. RIME selects complete ensemble empirical mode …
+- **[HEAL-RAG: A Hybrid Evolving Retrieval-Augmented Generation Framework for Explainable Biomedical Data Analysis and Clinical Decision Support](https://doi.org/10.3390/a19110992)**
+  Ronke Seyi Babatunde, Sulaiman Olaniyi Abdulsalam, Akeem Femi Kadri, et al. · 2026-11-12
+  > The rapid growth of biomedical literature, electronic health records (EHRs), and heterogeneous clinical data has created a need for systems that can synthesise evidence to support clinical decision-making. Large language models (LLMs) reason fluently in natural language, but their clinical use is limited by hallucination, gaps in domain knowledge, opaque reasoning, and an inability to incorporate …
 
-### Algorithms (1)
+### Computers (3)
 
-- **[Predicting Sustainable E-Commerce Delivery Preferences Using Emotional Neural Networks: A Smart City Logistics Perspective](https://doi.org/10.3390/a19110989)**
-  Tamara Žuvela, Marko Veličković, Jelena Ivetić, et al. · 2026-11-11
-  > There is growing interest among researchers and practitioners in understanding and predicting online consumer behaviour, particularly regarding environmental considerations in e-commerce and sustainable urban logistics. This study examines consumer attitudes and preferences and predicts the acceptance of sustainable delivery options in an emerging market context. Drawing on 355 valid survey …
+- **[Scaffold or Crutch? Immediate Benefits and an Unresolved Delayed Cost of LLM-Assisted Practice in Vocational Education](https://doi.org/10.3390/computers15110827)**
+  Shunping Li · 2026-11-13
+  > Large language models (LLMs) are entering vocational classrooms faster than behavioral evidence on durable skill. In a class-randomized 2 × 2 factorial experiment embedded in a vocational data-analysis course, 272 students in eight classes practiced with either a course-customized LLM assistant or resource-matched conventional support and then took an immediate posttest with the assistant …
+- **[Knowledge Space Theory as a Means of Structural–Combinatorial Analysis of Game Log Data](https://doi.org/10.3390/computers15110826)**
+  Michael D. Kickmeier-Rust, Katharina Richter · 2026-11-13
+  > The analysis of learning data from digital learning environments and serious games poses significant methodological challenges. Conventional statistical methods often yield weak or non-significant results, not necessarily because learning has not occurred, but because learning processes are highly multivariate and influenced by complex interactions among learner characteristics, content, and …
+- **[From Generation to Verification: A Reproducible Empirical Study of Verification-Guided LLM Workflows for Software Engineering](https://doi.org/10.3390/computers15110825)**
+  Mohammed Akour, Omaia Al-Omari, Mohammad Alzoubi · 2026-11-12
+  > Large language models (LLMs) have demonstrated considerable capabilities in automated code generation; however, producing syntactically valid and plausible code does not necessarily guarantee functional correctness. Verification-guided workflows seek to improve generated software through iterative refinement informed by execution results and software-quality diagnostics. Nevertheless, whether …
 
-### Computers (1)
+### Electronics (9)
 
-- **[An Auditable AI Pipeline for Long-Tail Healthcare Resource Discovery and Directory Maintenance](https://doi.org/10.3390/computers15110824)**
-  Kevin Igweh, Ajmery Sultana, Teryn Bruni, et al. · 2026-11-12
-  > Community healthcare directories are fragmented across heterogeneous web sources and become unreliable as organizational information changes. This study presents an auditable pipeline that combines deterministic query-space construction, language-model extraction, entity resolution, evidence verification, and human-mediated directory maintenance. The Agentic Research System uses a four-axis Query …
+- **[An AI-Based Commentary Function with Estimated State Rating Framework for Student Learning Support in Java Programming Learning Assistant System](https://doi.org/10.3390/electronics15225277)**
+  Yanhui Jing, Nobuo Funabiki, Huiyu Qi, et al. · 2026-11-13
+  > As Java remains a widely used object-oriented programming language in various application systems, we have developed the Java Programming Learning Assistant System (JPLAS) to support novice learners in their self-studies. JPLAS provides a variety of exercise problems that have different learning goals and difficulties. Among them, Grammar-Concept Understanding Problems (GUP) is designed as the …
+- **[Point Cloud Outlier Removal with Corruption-Stable Tokenization](https://doi.org/10.3390/electronics15225272)**
+  Maoz Koren, Dovi Yellin, Yehudit Aperstein · 2026-11-13
+  > Real-world point clouds often contain spurious observations that obscure the underlying geometry. Modern point-cloud models struggle to distinguish such outliers from sparse but valid local geometry. We propose a two-stage transformer framework for additive outlier removal that combines self-supervised masked reconstruction with supervised point-wise classification. To reduce pre-encoding …
+- **[Correction: Almeman, K. Automated Construction of a Multi-Dialectal Saudi Corpus Using Generative Language Models. Electronics 2026, 15, 1241](https://doi.org/10.3390/electronics15225273)**
+  Khalid Almeman · 2026-11-13
+  > Missing Acknowledgment [...]
+- **[Real-Time Analytical Selective Harmonic Elimination Method for CHB Inverters Using FPGA and NIOS II Processor](https://doi.org/10.3390/electronics15225258)**
+  Noman Liaqat, Amir Ghasemian, Sobhan Mohamadian, et al. · 2026-11-12
+  > This study presents a real-time analytical approach to calculating switching angles in a multilevel inverter. The method determines a set of switching angles equal to s=2n that eliminate n harmonics and all their multiples from the output voltage waveform. To minimize computational complexity, the arccos function in the switching angle calculation is replaced by a cubic least-squares polynomial. …
+- **[Deep Reinforcement Learning-Based Integrated Maintenance Planning for Multiple Types of Power Assets](https://doi.org/10.3390/electronics15225263)**
+  Seon-Woo Im, Jeong-Sik Oh, Jae-Deok Park, et al. · 2026-11-12
+  > Asset management of power assets is a decision-making process that manages risk by considering asset condition and the consequences of failure while ensuring supply reliability and cost-effective maintenance within a limited budget. However, when maintenance plans are developed and budgets are allocated separately for each asset class, it is difficult to compare the investment effects across …
+- **[Enhancing Credit Card Fraud Detection Using Generative AI-Based Data Augmentation](https://doi.org/10.3390/electronics15225259)**
+  Amani Al-Ajlan, Aliyah Aljarallah, Shoug Alsaleem, et al. · 2026-11-12
+  > Credit card fraud detection is challenging due to the extreme class imbalance and the limited number of fraudulent transactions. To address this problem, this paper proposes a fraud detection framework that combines generative AI-based data augmentation with machine learning classification models. We generated synthetic fraud samples at augmentation ratios of 1%, 5%, and 10% using three …
+- **[Heterogeneous Memristive Neuromorphic Computing with Physics-Aware Cross-Modal Attention for Energy-Efficient Multimodal Emotion Recognition](https://doi.org/10.3390/electronics15225257)**
+  Cong Xu, Le-Jian Xu, Wei Feng, et al. · 2026-11-12
+  > Multimodal Emotion Recognition (MER) is a crucial technology for achieving emotional intelligence in human–computer interaction. However, the substantial computational demands of MER models currently overwhelm the capacities of resource-constrained edge devices. To address this problem, this paper proposes a Heterogeneous Memristive Neural Network for Multimodal Emotion Recognition. The proposed …
+- **[FL-Forensics: A Forensic-Ready Framework for Tamper-Evident Accountability and Auditability in Federated Learning](https://doi.org/10.3390/electronics15225269)**
+  Safiia Mohammed, Alioune Ngom · 2026-11-12
+  > Federated learning (FL) trains shared models without centralizing raw data, but provides limited post-incident accountability or evidence preservation. We present FL-Forensics, a Flower extension for malicious-client and compromised-aggregator settings. Client-signed commitments are witnessed before server acceptance and later anchored, in a simulated four-validator quorum, for independent …
+- **[SparseProto: Biomedical Image Classification with Global Features and Prototype Histograms](https://doi.org/10.3390/electronics15225262)**
+  Hüseyin Aydilek · 2026-11-12
+  > SparseProto combines global convolutional features with a top-k prototype-assignment histogram in a biomedical image classifier with 41,187 to 42,759 parameters. We evaluate predictive performance, parameter count, counted operations, and measured latency on BloodMNIST, PathMNIST, and DermaMNIST. Explainability is not evaluated. The original three-seed comparison illustrates that parameter and …
 
-### Electronics (5)
+### Applied Sciences (6)
 
-- **[Privacy-Preserving Federated Land-Cover Segmentation Under Non-IID Data: Region-Aware Contrastive Regularization and DP-SGD](https://doi.org/10.3390/electronics15225241)**
-  Mustafa Ali Ahmed, Mohammed Khader · 2026-11-12
-  > Federated learning supports collaborative satellite-image segmentation without centralizing source imagery, but non-IID data distributions and information leakage through model updates remain important challenges. We evaluate centralized U-Net, vanilla FedAvg, client-local region-aware contrastive FedAvg, client-side DP-SGD, and DP-SGD with fixed-prototype contrastive regularization on the …
-- **[Shaped MDPs for Safe Reinforcement Learning of Reactive-Current Injection During Voltage Sags in Inverter-Based Distributed Generation](https://doi.org/10.3390/electronics15225247)**
-  Mohana Fathollahi, Antonio Camacho Santiago, Cecilio Angulo, et al. · 2026-11-12
-  > Renewable energy sources (RESs) challenge grid stability due to their intermittency, particularly during transient disturbances. Voltage sags can rapidly degrade system performance, requiring prompt reactive-current injection to support voltage recovery. Fault ride-through strategies are therefore essential to maintain stable operation of inverter-based systems while complying with grid-code …
-- **[A Comprehensive Survey on IoT and Machine Learning for Flood Early Warning Systems](https://doi.org/10.3390/electronics15225243)**
-  Dimitrios Kosmanos, Dimitra Kokkinou, George T. Karetsos · 2026-11-12
-  > Flood Early Warning Systems (FEWSs) increasingly combine heterogeneous observation streams, computational models, and interoperable information infrastructures. This survey reviews how Internet of Things (IoT)-based sensing, communication protocols, data pre-processing, machine learning, data assimilation, and operational platforms contribute to flood monitoring and early warning. Rather than …
-- **[MixDNN: Scheduling Optimization of Distributed DNN Training in Heterogeneous GPU Environments](https://doi.org/10.3390/electronics15225236)**
-  Zhang Xiao, Ye Pengwei, Luo Xuwen, et al. · 2026-11-11
-  > With the rapid advancement of deep neural networks (DNN), the scale of workloads continues to expand, exhibiting diverse training characteristics. Traditional scheduling frameworks for PyTorch and TensorFlow, such as Kubernetes, typically assume uniform training workloads across samples within a given task. Consequently, existing frameworks adopt static parallelism strategies throughout the …
-- **[LIMITS: A Lightweight Two-Layer Hybrid IoT Intrusion Detection System with Mutual-Information Feature Selection](https://doi.org/10.3390/electronics15225240)**
-  Basmah Alsulami, Bander A. Alzahrani, Abdulmohsen Almalawi · 2026-11-11
-  > The growth of the Internet of Things (IoT) exposes resource-constrained devices to an expanding range of cyber attacks. Machine learning-based intrusion detection systems (IDSs) can detect these attacks, but they spend the same inference budget on every network flow, even when a flow is easy to classify. We propose LIMITS (Lightweight IoT Mutual-Information Two-layer System), a hybrid IDS in …
+- **[Digital Collaboration Tools for UAV Development](https://doi.org/10.3390/app162211261)**
+  Aristeidis Peslis, Nikos Karacapilidis, Vassilis Kostopoulos · 2026-11-13
+  > Contemporary technological collaboration environments have become essential to the rapid and efficient development of unmanned aerial vehicles. These environments integrate digital engineering platforms, cloud-based design environments, and advanced communication frameworks to support geographically distributed teams. This study is a systematic review that presents the main benefits of …
+- **[A Strain-Driven PINN Incorporating Constitutive Models for Unsaturated Soils](https://doi.org/10.3390/app162211264)**
+  Chengbo Liu, Shengshen Wu, Yuxin Dong, et al. · 2026-11-13
+  > The hydraulic and mechanical properties of unsaturated soils are relatively complex. To address the highly nonlinear hydro-mechanical behavior of unsaturated soils, this study proposes a Physics-Informed Neural Network (PINN) model constrained by the constitutive model of unsaturated soils. Driven by axial strain, the model uses a fully connected neural network to predict five variables, …
+- **[Review of Research on 3D Vision-Based Robotic System for Unstructured Bin-Picking](https://doi.org/10.3390/app162211254)**
+  Yu Han, Fengshou Zhang · 2026-11-13
+  > In the manufacturing process, the Vision-Based Robotic System for Unstructured Bin-Picking can be used for parts sorting. Compared with two-dimensional (2D) vision technology, the 3D Vision-Based Robotic System for Unstructured Bin-Picking (3DV-BRUPS) has outstanding technical advantages in disorderly sorting scenes. Considering that existing reviews concerning 3DV-BRUPS are far from …
+- **[Few-Shot Learning for Modulation Format Identification and Optical Performance Monitoring: A Domain-Adapted Approach](https://doi.org/10.3390/app162211246)**
+  Peng Zhou, Yu Zhang, Tao Zhang, et al. · 2026-11-13
+  > To address the limited generalization capability and heavy data dependency of conventional neural networks in dynamic elastic optical networks (EONs), a domain-adapted multi-task model-agnostic meta-learning (MT-MAML) framework is proposed for simultaneous modulation format identification (MFI) and optical signal-to-noise ratio (OSNR) estimation. By designating MFI as an auxiliary task to guide …
+- **[Non-Stationary Class-Directed Augmentation for Fine-Grained Vehicle Damage Detection and Instance Segmentation](https://doi.org/10.3390/app162211239)**
+  Alejandro Cheuquepan, Emanuel Vega, Rodrigo F. Herrera, et al. · 2026-11-12
+  > Automatedvehicle damage assessment remains challenging because damaged regions frequently exhibit irregular geometries, diffuse boundaries, substantial scale variability, and limited visual separability between categories such as cracks and scratches. Although previous studies have mainly improved detection and segmentation through architectural modifications, comparatively less attention has …
+- **[From Prompting to Multi-Agent AI: Controlled Generation of CEFR-Specific Language Learning Content](https://doi.org/10.3390/app162211230)**
+  Busra Ozdenizci Kose, Vedat Coskun, Mikail Abdullah Oral, et al. · 2026-11-12
+  > Generative artificial intelligence is increasingly being used to support content creation in digital language-learning environments; however, generating educational materials that consistently reflect different proficiency levels remains a challenge. This study investigates an orchestrated multi-agent AI architecture for generating language-learning content targeting different CEFR proficiency …
 
-### Applied Sciences (9)
+### Sensors (7)
 
-- **[Industry 5.0 Enabling Technologies in the Footwear Industry: A Systematic Review](https://doi.org/10.3390/app162211191)**
-  Sofia Plakantonaki, Aura Mihai, Philip Azariadis, et al. · 2026-11-12
-  > Industry 5.0 extends the digital foundations of Industry 4.0 by emphasising human-centricity, sustainability and resilience. Its implications for footwear remain dispersed across studies. This systematic review identifies enabling technologies investigated or implemented in the footwear industry and examines their relationship with the three dimensions. Scopus (23 September 2026) and Web of …
-- **[AIoTutor: Design and Evaluation of a Scaffolded AI Tutoring Intervention with a Teacher Review Pipeline for Embedded IoT Laboratory Education](https://doi.org/10.3390/app162211213)**
-  Weixin Guo, Jianfang Jia · 2026-11-12
-  > Embedded Internet of Things (IoT) laboratory courses face two persistent challenges: novice students bear excessive extraneous cognitive load in cross-layer hardware–software fault diagnosis, and teachers’ tacit troubleshooting pedagogical content knowledge (PCK) cannot be systematically preserved. This paper presents AIoTutor, a four-layer scaffolded generative artificial intelligence tutoring …
-- **[Encoder-FFN Model with Honeypot Deception for DNS Cache Poisoning Detection and Mitigation in Software-Defined Network](https://doi.org/10.3390/app162211215)**
-  Vianney Kengne Tchendji, Volviane Saphir Mfogo, Mthulisi Velempini, et al. · 2026-11-12
-  > The increasing complexity and volume of cyberattacks present a significant challenge to traditional intrusion detection and prevention systems. One prevalent attack is domain name server (DNS) cache poisoning, which involves injecting falsified information into DNS server caches to redirect legitimate traffic to malicious websites, thereby compromising user security and confidentiality. This …
-- **[GraphRAG-Based Generation of Mathematics Assessments Using Prerequisite Knowledge Graphs](https://doi.org/10.3390/app162211202)**
-  Juan Arturo Pérez-Cebreros, Francisco Cervantes-Alvarez, Joahan Israel Hernández-Granados · 2026-11-12
-  > Large language models (LLMs) provide new opportunities for the automatic generation of educational assessments. However, their application in mathematics remains challenging because they do not explicitly represent prerequisite knowledge and may generate mathematically incorrect content. To address these limitations, this study proposes a GraphRAG-based architecture for generating multiple-choice …
-- **[Cost-Efficient Observation for LLM-Based UI Grounding: Measuring Predicate-Relative Attribute Sufficiency Within a Symbolic Representation](https://doi.org/10.3390/app162211180)**
-  Anton Angelov, Milena Lazarova · 2026-11-11
-  > A large language model (LLM)-based agent uses text observations to find UI elements. Their content affects token cost and grounding success. Observation-reduction work asks how much to remove; we ask which attribute subsets are sufficient under a fixed success predicate. We compare 6000 events across 24 synthetic pages, varying attributes and serialisations. Removing volatile class and id values …
-- **[Explainable Artificial Intelligence for Three-Hour-Ahead Natural Gas Consumption Forecasting with Uncertainty Quantification](https://doi.org/10.3390/app162211175)**
-  Dmytro Tymoshchuk, Grigorii Shymchuk, Iaroslav Lytvynenko, et al. · 2026-11-11
-  > This study investigates short-term natural gas consumption forecasting in the city of Ternopil and the contribution of different feature groups to forecasting accuracy. Synchronized natural gas consumption and meteorological observations from 2007 to 2019 were used. A total of 203 calendar, meteorological, and derived features were constructed. Six machine learning models, three naive baseline …
-- **[A Fine-Tuned Multi-Agent Large Language Model Platform with Retrieval-Augmented Generation for Clinical Case Report Analysis](https://doi.org/10.3390/app162211184)**
-  Mateusz Walo, Dariusz Majerek, Izolda Gorgol · 2026-11-11
-  > This study presents a prototype for the structured analysis of PubMed case-report titles, keywords and abstracts, combining domain fine-tuning, retrieval-augmented generation (RAG) and five specialist-role agents with a synthesis agent. DeepSeek-R1-Distill-Qwen-7B was fine-tuned using QLoRA on 8999 reports with teacher-generated targets. The retrieval index contains 7679 chunks from 13 medical …
-- **[Hybridization of Fuzzy Sets and Machine Learning Models for Solving Regression and Classification Problems](https://doi.org/10.3390/app162211179)**
-  Krzysztof Wiktorowicz · 2026-11-11
-  > This paper presents a novel approach to hybridizing fuzzy sets with machine learning models. The proposed hybrid system is not based on fuzzy rules, so the curse of dimensionality that appears in fuzzy rule-based systems is avoided. The system consists of a fuzzification module and a predictive model realized by a machine learning technique. The fuzzification module transforms each observational …
-- **[Predicting Perceived Barriers to Wider AI Use in Six Survey Samples](https://doi.org/10.3390/app162211185)**
-  Łukasz Walusiak, Bartosz Ignac, Marcin Budziński, et al. · 2026-11-11
-  > We assessed whether demographic characteristics, reported AI use and attitudes predict the greatest perceived barrier to wider artificial intelligence (AI) use. The analysis included 3528 adults in six provider-labelled survey samples whose geographic membership could not be independently verified. All ten response alternatives were retained. Multinomial logistic regression, random forests, and …
-
-### Sensors (2)
-
-- **[Vibration-Based Detection of Hidden Drilling in High-Value Liquor](https://doi.org/10.3390/s26227138)**
-  Jing Chen, Wenrui Duan, Runyu Chen, et al. · 2026-11-12
-  > Hidden drilling provides a potential means of removing liquor from high-value bottles without visibly opening the package, posing a challenge for tamper detection. Here, we develop a vibration-based method for detecting drilling operations using vibration measurements acquired at the bottle-cap position and machine learning. An inertial measurement unit (IMU) mounted at the bottle-cap position …
-- **[Thermographic Sensing for Biomedical Electronic Circuits: Sensor Selection, Acquisition Requirements, and Emissivity Compensation](https://doi.org/10.3390/s26227141)**
-  Filippo Laganà · 2026-11-12
-  > Infrared thermography can support inspection and monitoring of electronic circuits used in biomedical devices, but heterogeneous emissivity, reflected radiation, optical averaging, and instrument drift complicate temperature interpretation. This focused critical review examines the literature linking infrared detector selection and acquisition requirements with radiometric calibration and …
+- **[Smoking-Status Determination from Human Nails Based on Attenuated Total Reflection Fourier Transform Infrared Spectroscopy and Machine Learning](https://doi.org/10.3390/s26227166)**
+  Bilkis Mitu, Lenka Halámková · 2026-11-13
+  > Human nails are a durable, non-invasively collected keratin matrix that records exposure over months. We assessed whether attenuated total reflection Fourier transform infrared (ATR FT-IR) spectroscopy of intact fingernail clippings, combined with machine learning, can discriminate self-reported smokers from non-smokers. Spectra (n = 3681) from 87 donors (42 smokers, 45 non-smokers) were …
+- **[Revisiting Scene Change Detection with Pixel-Wise Temporal Fusion](https://doi.org/10.3390/s26227168)**
+  Dong Yeop Kim, Keunhwan Kim, Jung-Hoon Hwang, et al. · 2026-11-13
+  > Change detection aims to identify pixel-wise scene changes between observations acquired at different times by leveraging the strong visual representation capabilities of deep neural networks on RGB images. In robotics scenarios such as the ChangeSim dataset, visual observations are naturally collected as temporally sequential image streams rather than isolated image pairs. Our key insight is …
+- **[Enabling High-Throughput and Cost-Efficient Web 3.0 Services for Intelligent Sensing Networks via GNN-Enhanced Masked Deep Reinforcement Learning in Multi-Chain Systems](https://doi.org/10.3390/s26227174)**
+  Ru Huo, Xuepeng Shi, Wei Chen, et al. · 2026-11-13
+  > Intelligent sensing networks generate heterogeneous application-level service requests from aggregated sensing measurements and events, raising critical requirements for data integrity, traceability, and trustworthy service interactions. Blockchain-enabled Web 3.0 infrastructures provide decentralized trust, tamper-evident records, and verifiable service execution to support these requirements. …
+- **[Hierarchical Two-Agent Reinforcement Learning for Long-Horizon Energy Optimization and Short-Horizon Navigation in Autonomous Electric Boats](https://doi.org/10.3390/s26227167)**
+  Zamirddine Mari, Quentin Vassard, Mohamad Motasem Nawaf, et al. · 2026-11-13
+  > This paper presents a hierarchical two-agent deep reinforcement learning architecture for an electric racing boat, addressing the joint challenges of long-horizon energy management and short-horizon autonomous navigation. The system integrates two independently trained agents: an energy optimization agent based on an importance-weighted actor–learner architecture, selected for its ability to …
+- **[Γ-Cantilever Mechanism-Informed BP Neural Network Compensation for Gap Measurement of an Integrated Knee Distractor in Total Knee Arthroplasty](https://doi.org/10.3390/s26227169)**
+  Enkui Zhang, He Xu, Guanyu Chen, et al. · 2026-11-13
+  > In total knee arthroplasty (TKA), intraoperative soft-tissue balance and joint gap accuracy directly affect postoperative joint stability, functional recovery and long-term implant survivorship, but current clinical practice still lacks stable, quantitative measurement tools with sufficient precision. This study developed an integrated knee distractor with integrated force feedback and gap …
+- **[Air-Based Monitoring of Honey Bee Colony Diseases Using In-Hive Sensing and Machine Learning: System Overview and Laboratory Validation](https://doi.org/10.3390/s26227162)**
+  Dagmara Stasiowska, Bartosz Kądziołka, Michał Wierzbiński, et al. · 2026-11-13
+  > Parasites and pathogens are an increasing threat to honey bee colonies, and practical noninvasive tools for continuous remote bee colony monitoring are lacking. We present an integrated framework for continuous, air-based monitoring of honey bee colony health, combining in-nest sensing of volatile organic compounds, oxidizing gases, gas resistance, temperature, humidity and pressure with machine …
+- **[An IG-LSTM-Based Tool Wear Prediction Method for Cross-Operating-Condition Forecasting](https://doi.org/10.3390/s26227158)**
+  Bo Sun, Jian Zhang, Xiangqin Wu, et al. · 2026-11-12
+  > Tool wear directly affects the accuracy and reliability of machined workpieces; accurately predicting wear trends is crucial for developing reasonable tool-change strategies and avoiding sudden tool failure. Traditional parametric Inverse Gaussian (IG) processes can effectively characterize the non-negativity and stochastic fluctuations of incremental tool wear; however, the mean functions in …
